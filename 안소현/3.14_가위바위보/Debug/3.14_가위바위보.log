@@ -1,2 +1,6 @@
 ﻿  소스.c
-c:\users\dsm2017\source\repos\3.14_가위바위보\소스.c(7): error C2059: 구문 오류: ')'
+c:\users\dsm2017\desktop\afron_repository\안소현\3.14_가위바위보\소스.c(7): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\dsm2017\desktop\afron_repository\안소현\3.14_가위바위보\소스.c(8): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\dsm2017\desktop\afron_repository\안소현\3.14_가위바위보\소스.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  3.14_가위바위보.vcxproj -> C:\Users\dsm2017\Desktop\Afron_repository\안소현\3.14_가위바위보\Debug\3.14_가위바위보.exe
