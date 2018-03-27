@@ -1,2 +1,5 @@
 ﻿  자판기.cpp
+c:\users\dsm2018\desktop\afron_repository\남유림\자판기\자판기\자판기.cpp(39): warning C4101: 'count' :참조되지 않은 지역 변수입니다.
+c:\users\dsm2018\desktop\afron_repository\남유림\자판기\자판기\자판기.cpp(40): warning C4101: 'add' :참조되지 않은 지역 변수입니다.
+c:\users\dsm2018\desktop\afron_repository\남유림\자판기\자판기\자판기.cpp(255): warning C4700: 초기화되지 않은 'stub' 지역 변수를 사용했습니다.
   자판기.vcxproj -> C:\Users\DSM2018\Desktop\Afron_repository\남유림\자판기\Debug\자판기.exe
