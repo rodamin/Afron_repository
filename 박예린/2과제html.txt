@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<!--head 안에 스타일 넣으면 css-->
+<meta charset = "UTF-8">
+<title>park Ye-rin</title>
+</head>
+
+<body>
+<font color="salmon" size='6'><strong>박예린</strong></font><br>
+<br>
+<script type="text/javascript" src="3.js"></script>
+<noscript>JavaScript를 이용할 수 없습니다.</noscript>
+<br>
+<input type="button" value="Mouse Over it!" onclick="alert('Park Ye-rin is the best!')" onmouseover="over(this)" onmouseout="out(this)" >
+
+</body>
+ 	
+</html>

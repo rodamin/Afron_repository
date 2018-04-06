@@ -1,0 +1,26 @@
+window.alert('안녕하세요, 반가워요!');
+
+var a = prompt('정수를 입력하세요!');          
+
+//a is not a number
+if (!isNaN(a)) a = parseInt(a);
+
+if(a%2==0)
+		alert("짝수입니다!");
+	else alert("홀수입니다!");
+
+function over(target) {
+		target.style.color="red";
+	}
+function out(target) {
+		target.style.color="blue";
+	}
+document.write("입력한 정수의 종류 : "); document.write(typeof a, "<br />");
+
+var b = 1; 
+var c = 2;
+document.write("1+2=",b+c, "<br>");
+document.write("2-1=",c-b, "<br>");
+document.write("1*2=",c*b, "<br>");
+document.write("2/1=",c/b, "<br>");
+document.write("2을 1로 나눴을 때 나머지=",c%b, "<br>");
